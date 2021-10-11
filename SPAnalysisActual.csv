@@ -1,0 +1,12 @@
+originator,OML.ols,OML.sp,GML.ols,GML.sp,Competitive Suppression.ols,Competitive Suppression.sp,Direct Suppression.ols,Direct Suppression.sp,Generalized Competitive Suppression.ols,Generalized Competitive Suppression.sp,Generalized Direct Suppression.ols,Generalized Direct Suppression.sp,ROE Competitive Suppression.ols,ROE Competitive Suppression.sp,ROE Direct Suppression.ols,ROE Direct Suppression.sp
+?,-162.8591257,-159.1634865,-275.5220913,-117.9538657,-188.8925619,-174.0564569,-184.4966082,-182.6820669,-257.8064187,-166.5160577,-195.8324208,-119.4318964,-163.6883331,-149.455873,-167.6252739,-159.1837108
+,,,,,,,,,,,,,,,,
+,OLS,WIG,OLS weight,WIG weight,,OLS prob,WIG prob,,,,,,,,,
+OML,-162.8591257,-159.1634865,1,1.26733E-18,1a,0.692085517,1.03195E-18,,,,,,,,,
+GML,-275.5220913,-117.9538657,1.17787E-49,1,1b,8.15184E-50,0.814274945,,,,,,,,,
+Competitive Suppression ,-188.8925619,-174.0564569,4.94108E-12,4.31474E-25,2a,3.41965E-12,3.51338E-25,,,,,,,,,
+Direct Suppression,-184.4966082,-182.6820669,4.0083E-10,7.74282E-29,3a,2.77409E-10,6.30479E-29,,,,,,,,,
+ROE Competitive Suppression,-163.6883331,-149.455873,0.436395036,2.08378E-14,2a',0.302022684,1.69677E-14,,,,,,,,,
+ROE Direct Suppression,-167.6252739,-159.1837108,0.008513108,1.24195E-18,3a',0.005891799,1.01129E-18,,,,,,,,,
+Generalized Competitive Suppression,-257.8064187,-166.5160577,5.81989E-42,8.12284E-22,2b,4.02786E-42,6.61423E-22,,,,,,,,,
+Generalized Direct Suppression,-195.8324208,-119.4318964,4.78498E-15,0.228086417,3b,3.31161E-15,0.185725055,,,,,,,,,

@@ -1,0 +1,4 @@
+*.history
+ (Adam MacBook's conflicted copy 2017-06-06).Rhistory
+*.RData
+.Rhistory
